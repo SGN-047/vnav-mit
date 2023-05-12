@@ -1,3 +1,5 @@
+VNAV course
+
 ##LAB 1 & 2
 setup and installtion -> git -> cmake ->ros
 
