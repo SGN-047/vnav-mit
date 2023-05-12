@@ -1,0 +1,5 @@
+##LAB 1 & 2
+setup and installtion -> git -> cmake ->ros
+
+##LAB 3
+Trajectory generation and navigation
